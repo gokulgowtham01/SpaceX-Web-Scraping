@@ -11,7 +11,7 @@ Data Storage: Stores the processed data into a Pandas DataFrame for analysis or 
 ## Files
 spacex_launch_scraper.py: The main Python script that performs web scraping and data extraction.
 requirements.txt: List of required Python libraries.
-Features Extracted
+## Features Extracted
 Flight Number
 Date and Time
 Version of the Booster
