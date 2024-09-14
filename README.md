@@ -38,8 +38,4 @@ beautifulsoup4
 pandas
 re
 unicodedata
-## Example Output
-The output of the script is a table-like DataFrame that looks like:
 
-Flight No.	Date	Time	Version Booster	Launch Site	Payload	Payload Mass	Orbit	Customer	Launch Outcome	Booster Landing
-1	24 May 2012	07:44	Falcon 9 v1.0	Cape Canaveral	Dragon C2+	525kg	LEO	NASA	Success	Yes
